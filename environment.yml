@@ -8,5 +8,5 @@ dependencies:
   - pandas
   - scikit-bio >= 0.5.6
   - seaborn
-  - mpl_toolkits
+  #- mpl_toolkits
   - matplotlib
