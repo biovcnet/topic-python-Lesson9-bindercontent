@@ -6,7 +6,7 @@ dependencies:
   - python
   - numpy
   - pandas
-  - skbio
+  - scikit-bio >= 0.5.6
   - seaborn
   - mpl_toolkits
   - matplotlib
