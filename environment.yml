@@ -1,0 +1,14 @@
+
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - re
+  - skbio
+  - seaborn
+  - mpl_toolkits
+  - matplotlib
