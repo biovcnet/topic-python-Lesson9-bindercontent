@@ -1,0 +1,40 @@
+#Sample ID	Depth	SizeFrac	sulfide_uM	DO_um	Turbidity_FNU	Temp_C	ORP_mV	pH	Chl-a	phyco	salinity_psu	TDS_mgL	IC_assm	BHP 	totalcellL	CH4	SO4-2 	NO3	Mn	Fe	NH4	0.4Partic	0.2-0.4Partic	Partic	thiosulfate_uM	del13C_POC	redox_regime	redoxcline_pos	Month
+AC-GL3-0-2-6	5	0.2-2.7	0	2	0	2	2	3	0	0	0	0	0	1	0	0	0	3	0	0	NAN	0	0	0	0	NAN	oxic	above	October
+AC-GL3-0-2-19	15	0.2-2.7	0	1	0	1	1	1	1	0	0	0	0	1	1	0	0	3	0	0	NAN	0	0	0	0	NAN	oxic	upper boundary	October
+AC-GL3-0-2-1	16	0.2-2.7	0	1	0	1	2	1	0	0	0	0	NAN	NAN	NAN	0	0	2	0	0	NAN	0	0	0	0	NAN	oxic	inside	October
+AC-GL3-0-2-4	19	0.2-2.7	0	0	0	1	2	0	1	0	1	1	NAN	NAN	NAN	0	0	1	0	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-0-2-7	20	0.2-2.7	0	0	2	1	1	0	2	0	1	1	1	2	1	0	0	1	1	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-0-2-14	20	0.2-2.7	0	0	2	1	1	0	2	0	1	1	1	2	1	0	0	1	1	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-0-2-9	21	0.2-2.7	1	0	0	1	0	0	1	0	1	1	NAN	NAN	NAN	1	0	0	2	1	NAN	1	1	0	0	NAN	euxinic	below	October
+AC-GL3-0-2-18	25	0.2-2.7	1	0	0	0	0	0	0	0	1	1	0	0	1	2	1	0	1	1	NAN	2	0	0	0	NAN	euxinic	below	October
+AC-GL3-0-2-3	40	0.2-2.7	2	0	0	0	0	0	0	0	1	2	0	0	1	3	1	0	0	0	NAN	0	1	0	0	NAN	euxinic	below	October
+AC-GL3-2-7-6	5	>2.7	0	2	0	2	2	3	0	0	0	0	0	1	0	0	0	3	0	0	NAN	0	0	0	0	NAN	oxic	above	October
+AC-GL3-2-7-19	15	>2.7	0	1	0	1	1	1	1	0	0	0	0	1	1	0	0	3	0	0	NAN	0	0	0	0	NAN	oxic	upper boundary	October
+AC-GL3-2-7-1	16	>2.7	0	1	0	1	2	1	0	0	0	0	NAN	NAN	NAN	0	0	2	0	0	NAN	0	0	0	0	NAN	oxic	inside	October
+AC-GL3-2-7-4	19	>2.7	0	0	0	1	2	0	1	0	1	1	NAN	NAN	NAN	0	0	1	0	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-2-7-7	20	>2.7	0	0	2	1	1	0	2	0	1	1	1	2	1	0	0	1	1	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-2-7-14	20	>2.7	0	0	2	1	1	0	2	0	1	1	1	2	1	0	0	1	1	0	NAN	1	1	0	0	NAN	suboxic	inside	October
+AC-GL3-2-7-9	21	>2.7	1	0	0	1	0	0	1	0	1	1	NAN	NAN	NAN	1	0	0	2	1	NAN	1	1	0	0	NAN	euxinic	below	October
+AC-GL3-2-7-18	25	>2.7	1	0	0	0	0	0	0	0	1	1	0	0	1	2	1	0	1	1	NAN	2	0	0	0	NAN	euxinic	below	October
+AC-GL3-2-7-3	40	>2.7	2	0	0	0	0	0	0	0	1	2	0	0	1	3	1	0	0	0	NAN	0	1	0	0	NAN	euxinic	below	October
+AC-GL4-102	10	0.2-2.7	0	2	0	1	2	2	0	0	0	0	0	0	1	0	0	2	0	0	0	NAN	NAN	0	0	3	oxic	above	July
+AC-GL4-71	15	0.2-2.7	0	2	0	1	2	2	0	0	0	0	0	1	1	0	0	2	0	0	0	NAN	NAN	0	0	NAN	oxic	upper boundary	July
+AC-GL4-73	16	0.2-2.7	0	1	0	1	2	1	0	0	0	0	0	1	1	0	0	2	0	0	0	NAN	NAN	0	0	3	oxic	inside	July
+AC-GL4-69	19	0.2-2.7	0	0	0	1	2	0	1	0	1	1	1	1	1	0	0	1	1	0	1	NAN	NAN	0	0	3	hypoxic	inside	July
+AC-GL4-54	20.5	0.2-2.7	1	0	1	1	0	0	2	4	1	1	2	0	3	1	0	0	3	3	1	NAN	NAN	2	1	0	euxinic	below	July
+AC-GL4-60	21	0.2-2.7	1	0	1	1	0	0	1	3	1	1	2	0	2	1	0	0	2	4	1	NAN	NAN	1	1	2	euxinic	below	July
+AC-GL4-50	23	0.2-2.7	1	0	0	0	0	0	0	2	1	1	1	0	1	2	1	0	1	2	2	NAN	NAN	0	1	2	euxinic	below	July
+AC-GL4-61	25	0.2-2.7	1	0	0	0	0	0	0	1	1	1	1	0	1	2	1	0	1	1	2	NAN	NAN	0	1	2	euxinic	below	July
+AC-GL4-70	40	0.2-2.7	1	0	0	0	0	0	0	0	1	2	0	0	2	3	1	0	0	0	3	NAN	NAN	0	1	2	euxinic	below	July
+AC-GL4-102C	10	>2.7	0	2	0	1	2	2	0	0	0	0	0	0	1	0	0	2	0	0	0	NAN	NAN	0	0	2	oxic	above	July
+AC-GL4-71C	15	>2.7	0	2	0	1	2	2	0	0	0	0	0	1	1	0	0	2	0	0	0	NAN	NAN	0	0	2	oxic	upper boundary	July
+AC-GL4-73C	16	>2.7	0	1	0	1	2	1	0	0	0	0	0	1	1	0	0	2	0	0	0	NAN	NAN	0	0	1	oxic	inside	July
+AC-GL4-69C	19	>2.7	0	0	0	1	2	0	1	0	1	1	1	1	1	0	0	1	1	0	1	NAN	NAN	0	0	1	hypoxic	inside	July
+AC-GL4-54C	20.5	>2.7	1	0	1	1	0	0	2	4	1	1	2	0	3	1	0	0	3	3	1	NAN	NAN	2	1	0	euxinic	below	July
+AC-GL4-60C	21	>2.7	1	0	1	1	0	0	1	3	1	1	2	0	2	1	0	0	2	4	1	NAN	NAN	1	1	1	euxinic	below	July
+AC-GL4-50C	23	>2.7	1	0	0	0	0	0	0	2	1	1	1	0	1	2	1	0	1	2	2	NAN	NAN	0	1	1	euxinic	below	July
+AC-GL4-61C	25	>2.7	1	0	0	0	0	0	0	1	1	1	1	0	1	2	1	0	1	1	2	NAN	NAN	0	1	1	euxinic	below	July
+AC-GL4-70C	40	>2.7	1	0	0	0	0	0	0	0	1	2	0	0	2	3	1	0	0	0	3	NAN	NAN	0	1	2	euxinic	below	July
+AC-GL4-blank6	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN
+AC-GL4-blank7	NaN	NaN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN
+AC-GL4-blank2	NaN	NaN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN	NAN
